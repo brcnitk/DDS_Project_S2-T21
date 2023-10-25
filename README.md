@@ -117,7 +117,7 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 
 
 ---
-#Circuit Diagram:
+# Circuit Diagram:
 ![plot](./Smart%20ring.jpg)
 
 ---
