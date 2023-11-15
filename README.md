@@ -231,7 +231,7 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 	OR O1(w[4],w[0],w[1]);
 	AND A1(E,w[3],w[4]); // Tells is it an emergency or not 
 
-end module
+	end module
 
 ---
 ### Test bench File
