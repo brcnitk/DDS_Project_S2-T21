@@ -298,6 +298,8 @@ module S2_T21_tb;
 	initial #300 $finish;
  endmodule
 
+ </details>
+
  ## References
  <details>
   <summary>Detail</summary>
@@ -311,7 +313,7 @@ module S2_T21_tb;
 [4]	Wikipedia, the Free Encyclopedia, “RS-232”, April 30, 2005,  http://en.wikipedia.org/wiki/RS-232
 
 
-</details>
+
  
 
 </details>
