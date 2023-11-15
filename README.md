@@ -21,7 +21,7 @@
 <details>
   <summary>Detail</summary>
   
-  > THE SMART RING is a wearable heart attack detecting equipment which can be used in our day to day life to indicate the condition of the heart. It helps to detect heart attack and helps a person to seek for an emergency help. This was specially designed in order to help the people who suffer from minor or severe heart diseases. SMART RINGS are capable of monitoring your heart rate throughout the day and night, which can offer insights, like resting heart rate and when your heart rate is unexpectedly high or low. Some can also use that heart rate sensor to measure heart rate variability, which is the measurement of intervals between heart beats, and can be an indicator of stress. Wearable devices that detect heart rate can be helpful for improving exercise habits and eating behaviours, and they can provide motivation to lead a healthier lifestyle – all of which contribute to lowering the risk of heart disease. Smart rings are built in such a way that their core can rely on similar hardware to deliver core ring features. It also has sensor to sense the body temperature ,oxygen level and also supplies the oxygen in emergency case. The reading from these sensors can be used to send an alert message to the nearby health facility .  
+   THE SMART RING is a wearable heart attack detecting equipment which can be used in our day to day life to indicate the condition of the heart. It helps to detect heart attack and helps a person to seek for an emergency help. This was specially designed in order to help the people who suffer from minor or severe heart diseases. SMART RINGS are capable of monitoring your heart rate throughout the day and night, which can offer insights, like resting heart rate and when your heart rate is unexpectedly high or low. Some can also use that heart rate sensor to measure heart rate variability, which is the measurement of intervals between heart beats, and can be an indicator of stress. Wearable devices that detect heart rate can be helpful for improving exercise habits and eating behaviours, and they can provide motivation to lead a healthier lifestyle – all of which contribute to lowering the risk of heart disease. Smart rings are built in such a way that their core can rely on similar hardware to deliver core ring features. It also has sensor to sense the body temperature ,oxygen level and also supplies the oxygen in emergency case. The reading from these sensors can be used to send an alert message to the nearby health facility .  
 Lately, there has been many cases of heart attacks even when it comes to the people who were considered to be medically healthy. Recently, heart attack has not only been a common problem among the senior citizens, it has been a concern for youngsters as well. The rate of heart attack among the youngsters seem to be increasing rapidly   compared to that of the senior citizens. Such cases have inspired us to lay our minds on a device like SMART RING. These smart rings can be considered unique and different from other devices like watches because they do not given 'an additional device on your body' kind of look. Instead, these small rings are very easy to wear and carry it daily like a part of your body.  Heavier gadgets like watches are not required in order to keep your health intact. The SMART RING can be worn as an ornament as well. So basically, it is a very convenient and useful device to maintain a good health. This SMART RING also helps in showing the amount of oxygen that is needed by the patient which helps providing the proper required amount of oxygen.     
 
 </details>
@@ -31,7 +31,7 @@ Lately, there has been many cases of heart attacks even when it comes to the peo
 <details>
   <summary>Detail</summary>
 
-  > ### DESCRIPTION
+   ### DESCRIPTION
 The Smart Ring with Body Vital Sensors can be a very useful gadget as it can easily detect any chances of an heart attack and find the accurate oxygen levels required by the patient which is very vital to know to supply the right amount.
 In our project, we are using the following components as listed below:
 ⦁ Three 8-bit comparator – Compare the 8-bit binary numbers with the fixed limits specified.
@@ -143,8 +143,9 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
+![Smart ring](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/7a365d70-fc07-4c5f-9bf5-496306bf3381)
 
-  > ![plot](./Smart%20ring.jpg)
+  
 
 </details>
 
@@ -153,7 +154,7 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 <details>
   <summary>Detail</summary>
 
-  > // SMART RING WITH BODY VITAL SENSORS
+   // SMART RING WITH BODY VITAL SENSORS
 //S2_T21
 //1. 221CS217 , Dhanush V , dhanushv.221cs217@nitk.edu.in , 9353241312
 //2. 221CS222 , Harsha J Gundapalli , harshajgundapalli.221cs222@nitk.edu.in ,8792251009
