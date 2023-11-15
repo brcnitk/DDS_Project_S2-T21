@@ -1,16 +1,37 @@
 # SMART RING WITH BODY VITAL SNESORS
----
-### TEAM MEMBERS:  
-1.	221CS217 , Dhanush V , dhanushv.221cs217@nitk.edu.in , 9353241312  
-2.	221CS222 , Harsha J Gundapalli , harshajgundapalli.221cs222@nitk.edu.in ,8792251009  
-3.	221CS226 , Isiri Dinesh S , isiridineshs.221cs226@nitk.edu.in , 7349437557   
----             
-## ABSTRACT:  
-THE SMART RING is a wearable heart attack detecting equipment which can be used in our day to day life to indicate the condition of the heart. It helps to detect heart attack and helps a person to seek for an emergency help. This was specially designed in order to help the people who suffer from minor or severe heart diseases. SMART RINGS are capable of monitoring your heart rate throughout the day and night, which can offer insights, like resting heart rate and when your heart rate is unexpectedly high or low. Some can also use that heart rate sensor to measure heart rate variability, which is the measurement of intervals between heart beats, and can be an indicator of stress. Wearable devices that detect heart rate can be helpful for improving exercise habits and eating behaviours, and they can provide motivation to lead a healthier lifestyle – all of which contribute to lowering the risk of heart disease. Smart rings are built in such a way that their core can rely on similar hardware to deliver core ring features. It also has sensor to sense the body temperature ,oxygen level and also supplies the oxygen in emergency case. The reading from these sensors can be used to send an alert message to the nearby health facility .  
+
+<!-- First Section -->
+## Team Details
+<details>
+  <summary>Detail</summary>
+
+  > Semester: 3rd Sem B. Tech. CSE
+
+  > Section: S2
+
+  > Member-1: Dhanush V , 221CS217 , dhanushv.221cs217@nitk.edu.in 
+
+  > member-2: Harsha J Gundapalli , 221CS222 , harshajgundapalli.221cs222@nitk.edu.in
+
+  > Member-3: Isiri Dinesh S , 221CS226 , isiridineshs.221cs226@nitk.edu.in
+</details>
+
+<!-- Second Section -->
+## Abstract
+<details>
+  <summary>Detail</summary>
+  
+  > THE SMART RING is a wearable heart attack detecting equipment which can be used in our day to day life to indicate the condition of the heart. It helps to detect heart attack and helps a person to seek for an emergency help. This was specially designed in order to help the people who suffer from minor or severe heart diseases. SMART RINGS are capable of monitoring your heart rate throughout the day and night, which can offer insights, like resting heart rate and when your heart rate is unexpectedly high or low. Some can also use that heart rate sensor to measure heart rate variability, which is the measurement of intervals between heart beats, and can be an indicator of stress. Wearable devices that detect heart rate can be helpful for improving exercise habits and eating behaviours, and they can provide motivation to lead a healthier lifestyle – all of which contribute to lowering the risk of heart disease. Smart rings are built in such a way that their core can rely on similar hardware to deliver core ring features. It also has sensor to sense the body temperature ,oxygen level and also supplies the oxygen in emergency case. The reading from these sensors can be used to send an alert message to the nearby health facility .  
 Lately, there has been many cases of heart attacks even when it comes to the people who were considered to be medically healthy. Recently, heart attack has not only been a common problem among the senior citizens, it has been a concern for youngsters as well. The rate of heart attack among the youngsters seem to be increasing rapidly   compared to that of the senior citizens. Such cases have inspired us to lay our minds on a device like SMART RING. These smart rings can be considered unique and different from other devices like watches because they do not given 'an additional device on your body' kind of look. Instead, these small rings are very easy to wear and carry it daily like a part of your body.  Heavier gadgets like watches are not required in order to keep your health intact. The SMART RING can be worn as an ornament as well. So basically, it is a very convenient and useful device to maintain a good health. This SMART RING also helps in showing the amount of oxygen that is needed by the patient which helps providing the proper required amount of oxygen.     
 
----
-## DESCRIPTION
+</details>
+
+<!-- Third Section -->
+## Working
+<details>
+  <summary>Detail</summary>
+
+  > ### DESCRIPTION
 The Smart Ring with Body Vital Sensors can be a very useful gadget as it can easily detect any chances of an heart attack and find the accurate oxygen levels required by the patient which is very vital to know to supply the right amount.
 In our project, we are using the following components as listed below:
 ⦁ Three 8-bit comparator – Compare the 8-bit binary numbers with the fixed limits specified.
@@ -41,7 +62,7 @@ If its higher than the fixed limit it will show 1 else 0. Similarly Comparator C
 
 ---
 
-## DESIGN:
+### DESIGN:
 
 The circuit works in the following manner:
 1)	Start: The process initiates, aiming to compare two 8-bit binary numbers 
@@ -68,12 +89,12 @@ The circuit works in the following manner:
 
 This flowchart demonstrates a systematic process for comparing two 8-bit binary numbers, incorporating multiple stages of comparison and logical operations to produce the final comparison output.
 
+### Flowchart
+ ![Flowchart](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/ed3e1055-539d-4a81-8b2c-314147d149d5)
 
+ ---
 
-
----
-
-## Truth Table:
+### Truth Table:
 
 #### Truth table for subtractor
 
@@ -116,14 +137,23 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 |1|	1|	0|	0|	0|	0|	1|
 
 
----
-# Circuit Diagram:
-![plot](./Smart%20ring.jpg)
+</details>
 
----
-# Verilog Code:
+<!-- Fourth Section -->
+## Logisim Circuit Diagram
+<details>
+  <summary>Detail</summary>
 
-// SMART RING WITH BODY VITAL SENSORS
+  > ![plot](./Smart%20ring.jpg)
+
+</details>
+
+<!-- Fifth Section -->
+## Verilog Code
+<details>
+  <summary>Detail</summary>
+
+  > // SMART RING WITH BODY VITAL SENSORS
 //S2_T21
 //1. 221CS217 , Dhanush V , dhanushv.221cs217@nitk.edu.in , 9353241312
 //2. 221CS222 , Harsha J Gundapalli , harshajgundapalli.221cs222@nitk.edu.in ,8792251009
@@ -265,10 +295,13 @@ module S2_T21_tb;
 	end
 	
 	initial #300 $finish;
-endmodule
----
-# REFERENCES
-[1]	Hwang, Limsui, Zhao, “Wireless Heart Attack Detector with GPS”, ECE445. University of Illinois, Fall 2004, https://courses.ece.uiuc.edu/ece445/cgi-bin/view_project.pl?fall2004_24  
+ endmodule
+
+ ## References
+ <details>
+  <summary>Detail</summary>
+
+ [1]	Hwang, Limsui, Zhao, “Wireless Heart Attack Detector with GPS”, ECE445. University of Illinois, Fall 2004, https://courses.ece.uiuc.edu/ece445/cgi-bin/view_project.pl?fall2004_24  
   
 [2]	National Heart, Lung, and Blood Institute, Disease and Condition Index, “What Is Coronary Artery  Disease?”, August 2003, http://www.nhlbi.nih.gov/health/dci/Diseases/Cad/CAD_WhatIs.html  
   
@@ -276,4 +309,10 @@ endmodule
   
 [4]	Wikipedia, the Free Encyclopedia, “RS-232”, April 30, 2005,  http://en.wikipedia.org/wiki/RS-232
 
----
+
+</details>
+ 
+
+</details>
+
+
