@@ -1,4 +1,4 @@
-# SMART RING WITH BODY VITAL SENSORS
+# Smart Ring with Body Vital Sensors
 
 <!-- First Section -->
 ## Team Details
