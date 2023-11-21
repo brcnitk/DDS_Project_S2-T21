@@ -92,6 +92,8 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 ### Flowchart
  ![image](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/888bfe17-be4e-4482-9e79-23abc042f4a2)
 
+ ![image](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/d06069f7-10f6-4e73-83e3-853ef3290335)
+
 
  ---
 
@@ -144,7 +146,9 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-  ![Smart ring](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/47f36310-eb8c-4be5-b7f6-874f3cfd4024)
+
+
+ ![image](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/baf65af7-ca39-42ab-9e08-de3cc02dfb19)
 
 
   
