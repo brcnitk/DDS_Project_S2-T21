@@ -90,7 +90,8 @@ The circuit works in the following manner:
 This flowchart demonstrates a systematic process for comparing two 8-bit binary numbers, incorporating multiple stages of comparison and logical operations to produce the final comparison output.
 
 ### Flowchart
- ![Flowchart](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/ed3e1055-539d-4a81-8b2c-314147d149d5)
+ ![image](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/888bfe17-be4e-4482-9e79-23abc042f4a2)
+
 
  ---
 
@@ -143,7 +144,8 @@ This flowchart demonstrates a systematic process for comparing two 8-bit binary 
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-![Smart ring](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/7a365d70-fc07-4c5f-9bf5-496306bf3381)
+  ![Smart ring](https://github.com/Dhanush0804/DDS_Project_S2-T21/assets/148981102/47f36310-eb8c-4be5-b7f6-874f3cfd4024)
+
 
   
 
